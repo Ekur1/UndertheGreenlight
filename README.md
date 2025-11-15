@@ -28,7 +28,7 @@
 
 解压压缩包。
 
-在解压后的目录中，找到并双击运行 Underthegreenlight.exe（Windows）或与之类似的应用程序（macOS/Linux）。
+在解压后的目录中，找到并双击运行 grsbdj.exe（Windows）或与之类似的应用程序（macOS/Linux）。
 
 联系与反馈
 如果您是原作版权的代表，并认为本项目存在任何问题，请通过 [您的邮箱地址] 与我联系，我将第一时间进行处理。
